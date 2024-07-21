@@ -1,0 +1,19 @@
+/* Import Tailwind CSS here or use Tailwind CLI to generate a CSS file */
+/* Add any additional custom styles here */
+
+.custom-blue {
+    background-color: #4a90e2; /* You can adjust the color as needed */
+  }
+  
+  .teacher-message {
+    background-color: #cce5ff;
+    padding: 8px;
+    margin: 4px 0;
+  }
+  
+  .student-message {
+    background-color: #f0f0f0;
+    padding: 8px;
+    margin: 4px 0;
+  }
+  
